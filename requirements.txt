@@ -1,0 +1,5 @@
+numpy==2.1.1
+matplotlib==3.9.2
+ngsolve==6.2.2406
+opencv-python==4.11.0.86
+ipykernel==6.29.5
